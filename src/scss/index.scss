@@ -1,0 +1,12 @@
+@import "./../../node_modules/bootstrap/scss/bootstrap";
+@import "./_var.scss";
+@import "./var";
+
+h1 {
+    border: $border;
+}
+
+.mybox {
+    background-color: aqua;
+    border: 8px solid fuchsia;
+}
